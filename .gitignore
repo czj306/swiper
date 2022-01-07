@@ -1,23 +1,17 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+/.git 
+/dist/asset-manifest.json 
+/dist/favicon.ico 
+/dist/index.html 
+/dist/logo192.png 
+/dist/logo512.png 
+/dist/manifest.json 
+/dist/robots.txt 
+/dist/static/css/main.8c42930e.css 
+/dist/static/css/main.8c42930e.css.map 
+/dist/static/js/787.b70d9aed.chunk.js 
+/dist/static/js/787.b70d9aed.chunk.js.map 
+/dist/static/js/main.ba224023.js 
+/dist/static/js/main.ba224023.js.LICENSE.txt 
+/dist/static/js/main.ba224023.js.map 
+/node_modules 
+#{".git":{},"dist":{"asset-manifest.json":{},"favicon.ico":{},"index.html":{},"logo192.png":{},"logo512.png":{},"manifest.json":{},"robots.txt":{},"static":{"css":{"main.8c42930e.css":{},"main.8c42930e.css.map":{}},"js":{"787.b70d9aed.chunk.js":{},"787.b70d9aed.chunk.js.map":{},"main.ba224023.js":{},"main.ba224023.js.LICENSE.txt":{},"main.ba224023.js.map":{}}}},"node_modules":{}} 
